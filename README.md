@@ -1,4 +1,4 @@
-Control de Gastos con IA
+*Control de Gastos con IA*
 
 Este proyecto tiene como objetivo desarrollar una aplicación para la gestión y control de gastos personales, incorporando técnicas de inteligencia artificial para el análisis financiero.
 
