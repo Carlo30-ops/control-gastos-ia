@@ -1,1 +1,1 @@
--- Crear tablas iniciales
+-- Base de datos inicial\nCREATE TABLE IF NOT EXISTS gastos(id INT PRIMARY KEY, descripcion TEXT, monto DECIMAL);
